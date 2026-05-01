@@ -1,6 +1,6 @@
 # 🕒 go-clock
 
-A simple desktop digital clock written in Go using the [Fyne](https://fyne.io/) GUI toolkit.  
+A simple desktop digital clock written in Go using the [Fyne](https://fyne.io/) GUI toolkit as a learning exercise.  
 Displays the current time in `HH:MM:SS` format and updates every second.
 
 ---
